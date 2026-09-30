@@ -1,0 +1,37 @@
+# Nginx runtime logs
+nginx-1.20.2/logs/
+nginx-1.20.2/temp/
+
+# Maven build output
+target/
+springcache-demo/target/
+
+# Local development caches
+.m2-repository/
+.mvn-settings.xml
+.npm-cache/
+.tmp/
+
+# Redis portable
+redis-portable/
+redis-portable.zip
+
+# Installers
+Memurai-Developer-v4.1.2.msi
+memurai-install.log
+
+# Node
+project-rjwm-admin-vue-ts/.npmrc
+
+# IDE - per-user workspace config (tracked project files are kept)
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dataSources/
+
+# Local document
+项目技术学习文档.md
+
+# OS
+Thumbs.db
+.DS_Store
